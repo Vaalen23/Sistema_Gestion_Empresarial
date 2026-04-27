@@ -1,2 +1,3 @@
 # Sistema_Gestion_Empresarial
 Repositorio para la asignatura Sistema_Gestion_Empresarial
+Proyecto Odoo módulo coches
